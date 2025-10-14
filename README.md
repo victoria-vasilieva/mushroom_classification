@@ -25,7 +25,7 @@ mushroom-classification/<br />
 │<br />
 ├── README.md<br />
 ├── mushroom_classification.ipynb # Jupyter notebook with code and results<br />
-├── data/ # Dataset files <br />
+├── mush_train.csv/ # Dataset file <br />
 └── requirements.txt # Python dependencies
 
 ## Installation
