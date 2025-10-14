@@ -26,7 +26,6 @@ mushroom-classification/<br />
 ├── README.md<br />
 ├── mushroom_classification.ipynb # Jupyter notebook with code and results<br />
 ├── data/ # Dataset files (if shareable)<br />
-├── images/ # Confusion matrix, feature plots, and foraging photo<br />
 └── requirements.txt # Python dependencies
 
 ## Installation
