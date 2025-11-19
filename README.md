@@ -26,10 +26,10 @@ The main model is a Random Forest classifier trained on engineered features comb
 
 mushroom-classification/<br />
 │<br />
-├── README.md<br />
-├── mushroom_classification.ipynb # Jupyter notebook with code and results<br />
-├── mush_train.csv/ # Dataset file <br />
-└── requirements.txt # Python dependencies
+├── [README.md](https://github.com/victoria-vasilieva/mushroom_classification/blob/main/README.md)<br />
+├── [mushroom_classification.ipynb](https://github.com/victoria-vasilieva/mushroom_classification/blob/main/mush_classification.ipynb) # Jupyter notebook with code and results<br />
+├── [mush_train.csv](https://github.com/victoria-vasilieva/mushroom_classification/blob/main/mush_train.csv) # Dataset file <br />
+└── [requirements.txt](https://github.com/victoria-vasilieva/mushroom_classification/blob/main/requirements.txt) # Python dependencies
 
 ## Installation
 
