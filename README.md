@@ -17,7 +17,10 @@ The main model is a Random Forest classifier trained on engineered features comb
 ## Results
 
 - Nearly 90% of edible mushrooms correctly identified  
-- Zero poisonous mushrooms misclassified  
+- Zero poisonous mushrooms misclassified
+
+  <img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/cd3f571c-296b-45ee-8a88-3f51b4570741" />
+
 
 ## Repository Structure
 
