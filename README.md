@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 3. Run the notebook
    
-Open `mushroom_classification.ipynb` with Jupyter or Google Colab
+Open [`mushroom_classification.ipynb`](https://github.com/victoria-vasilieva/mushroom_classification/blob/main/mush_classification.ipynb) with Jupyter or Google Colab
 
 ## License
 
